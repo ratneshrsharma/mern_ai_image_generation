@@ -4,12 +4,12 @@ A Full Stack MERN AI Image Generation App | Midjourney &amp; DALL-E Clone
 
 ## Add .env file to make AI works 
 
-**ADD Bellow keys and values** to make **
-MONGODB_URL = "*********************************************"
-CLOUDINARY_CLOUD_NAME = "********"
-CLOUDINARY_API_KEY = "***********************"
-CLOUDINARY_API_SECRET = "********************"
-OPENAI_API_KEY = "*********************************************"
+**ADD Bellow keys and values**[^1]
+MONGODB_URL = "*********************************************"[^1]
+CLOUDINARY_CLOUD_NAME = "********"[^1]
+CLOUDINARY_API_KEY = "***********************"[^1]
+CLOUDINARY_API_SECRET = "********************"[^1]
+OPENAI_API_KEY = "*********************************************"[^1]
 
 
 
